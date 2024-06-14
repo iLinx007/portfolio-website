@@ -253,7 +253,7 @@
 
   document.addEventListener("DOMContentLoaded", () => {
     // Check if this is the home page (index.html)
-    // if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
+    if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
       const typed = document.querySelector('.typed');
       if (typed) {
         let typed_strings = typed.getAttribute('data-typed-items');
