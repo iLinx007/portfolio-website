@@ -246,11 +246,6 @@
     }
   });
 
-
-
-
-
-
   document.addEventListener("DOMContentLoaded", () => {
     // Check if this is the home page (index.html)
     if (window.location.pathname === '/index.html' || window.location.pathname === '/') {
