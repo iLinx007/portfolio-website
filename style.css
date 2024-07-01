@@ -183,6 +183,7 @@ h6 {
   margin: 0;
 }
 
+
 @media (max-width: 768px) {
   #header.header-top {
     height: 60px;
@@ -447,6 +448,11 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
+
+.rounded-img {
+  border-radius: 20px; /* You can adjust the value as needed */
+}
+
 
 /*--------------------------------------------------------------
 # Counts
