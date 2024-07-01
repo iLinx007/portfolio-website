@@ -263,13 +263,6 @@
       }
     }
   });
-  
-
-
-
-
-
-
 
   /**
    * Initiate Pure Counter 
